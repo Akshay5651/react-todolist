@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+![todo1](https://github.com/Akshay5651/react-todolist/assets/39129814/dcb5dff3-078a-438d-8ac0-e62b3686c874)
+![todo2](https://github.com/Akshay5651/react-todolist/assets/39129814/333cd8c1-8b51-4d13-b07a-0a9d6905d900)
+
 ## Getting Started
 
 First, run the development server:
